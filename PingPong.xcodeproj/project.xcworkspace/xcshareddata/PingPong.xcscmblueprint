@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "963C318B36D55536D2A4970D8B3ABA5C5A03AABF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "963C318B36D55536D2A4970D8B3ABA5C5A03AABF" : 9223372036854775807,
+    "5C5121A69EFDC76E861BE087E5E39055A3F0585E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CB5353B0-78F6-4D11-86DA-28196D5A08DF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "963C318B36D55536D2A4970D8B3ABA5C5A03AABF" : "PingPong\/",
+    "5C5121A69EFDC76E861BE087E5E39055A3F0585E" : "PingPong\/PingPong\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PingPong",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PingPong.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/swift2geek\/PingPong.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C5121A69EFDC76E861BE087E5E39055A3F0585E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/swift2geek\/PingPong.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "963C318B36D55536D2A4970D8B3ABA5C5A03AABF"
+    }
+  ]
+}
